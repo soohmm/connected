@@ -10,7 +10,7 @@
     <html>
 <body>    
 <h4>Student Form</h4>
-<form action="Practice.php" method="post">
+<form action="insertfilesname.php" method="post">
   Roll no:<input type="text" name="sid"/><br><br>
   First Name:<input type="varchar" name="fname"/><br><br>
   Last Name:<input type="varchar" name="lname"/><br><br>
